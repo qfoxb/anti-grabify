@@ -7,7 +7,7 @@ Press on Group Management and then Click on Adlists [or this handy link here!](h
 Paste ```https://raw.githubusercontent.com/qfoxb/anti-grabify/master/hosts``` as the Address of the Adlist
 Then, press add. Now, on the Terminal of your pi, run ```pihole -g```
 # Windows
-** WARNING: I am not responsible for damages caused by modifying System Files
+** WARNING: I am not responsible for damages caused by modifying System Files **
 In a Command Prompt (As Administrator)
 Run ```notepad.exe %SystemRoot%\System32\drivers\etc\hosts```.
 At the very bottom of this file, paste the contents of [this file.](https://raw.githubusercontent.com/qfoxb/anti-grabify/master/hosts)
