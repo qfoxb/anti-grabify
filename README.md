@@ -1,4 +1,4 @@
-# Grabify-B-Gone
+# anti-grabify
 A hosts list based on https://github.com/Konnor88/anti-grabify. Blocks IP Grabbers.
 
 # Original README
