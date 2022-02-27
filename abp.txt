@@ -5,7 +5,7 @@
 ! Expires: 9999 days (update frequency)
 ! Homepage: https://github.com/qfoxb/anti-grabify/
 ! Licence: https://github.com/qfoxb/anti-grabify/blob/master/LICENSE
-! !
+! Description: This filter uses the rules from the Anti-Grabify extension to block all the IP grabber links that the Grabify service currently uses.
 grabify.link/*
 grabify.link/*
 bmwforum.co/*
